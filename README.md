@@ -1,4 +1,4 @@
-### Hey, I'm Manolo! 👋🏻
+<h2> Hey, I'm Manolo! 👋🏻</h2>
 
 
 ### Full-Stack Software Engineer 👨🏻‍💻 

@@ -1,7 +1,6 @@
+## Hey, I'm Manolo! 👋🏻
 
-## Hey, I'm Manolo! 👨🏻‍💻👋🏻
-
-### Full-Stack Software Engineer
+### Full-Stack Software Engineer 👨🏻‍💻
 
 I've been involved in the world of freelance web development for the past 4 years. Right now I'm focused on improving my skills in the Front-End field, and eager to test and learn new technologies!
 

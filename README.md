@@ -2,8 +2,7 @@
 
 ### Full-Stack Software Engineer 👨🏻‍💻
 
-I've been involved in the world of software engineering for the past 8 years, doing everything from developing corporate software to beign a freelance web developer.  
-Right now I'm focused on strengthening my Front-End skills, while also testing and learning new technologies!
+I've been involved in the world of software engineering for the past 8 years, doing everything from developing corporate software to beign a freelance web developer. My main focus right now is centered on strengthening my Front-End skills, while also testing and learning new technologies along the way!
 
 Some things to know about me:
 

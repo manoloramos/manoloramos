@@ -1,13 +1,13 @@
 ## Hey, I'm Manolo! 👋🏻
 
-### Full-Stack Software Engineer 👨🏻‍💻 
+### Full-Stack Software Engineer 👨🏻‍💻
 
-I've been involved in the world of freelance web development for the past 4 years. Right now I'm focused on improving my skills in the Front-End field, and eager to test and learn new technologies!
+I've been involved in the world of software engineering for the past 8 years, doing everything from developing corporate software to beign a freelance web developer. Right now I'm focused on strengthening my Front-End skills, while I enjoy testing and learning new technologies!
 
 Some things to know about me:
 
-- 🔨 I’m now working on my new personal website, based on ⚡ Vite & ⚛ React
-- 🌱 I’m currently learning more about Python, Docker and React
+- 🔨 I’m now working on my new personal website, based on ⚡ Vite & ⚛ React: [manoloramos.dev](https://www.manoloramos.dev)
+- 🌱 I’m currently learning more about Python, DevOps and React
 - 💬 Ask me anything about videogames, cooking and birds
 - 💙 Always open to connecting! Reach me out on [in/manoloramos](https://www.linkedin.com/in/manoloramos/)
 - 👀 Some random facts: 

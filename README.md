@@ -14,5 +14,5 @@ Here are a few things to know about me:
   - I always carry an umbrella in my backpack, no matter the weather.
   - Hard for me to imagine a world without seedless grapes. They are just so awesome 😎
   - My signature dish is curry chicken w/ rice.
-  - I'm an avid reader, specially for the fantasy genre. Currently reading *The Wise Man's Fear*, from Patrick Rothfuss (~~relase that damn third book, please~~).
+  - I'm an avid reader, specially for the fantasy genre. Currently reading *The Wise Man's Fear*, from Patrick Rothfuss (~~release that damn third book, please~~).
 

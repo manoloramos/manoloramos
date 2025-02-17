@@ -2,11 +2,11 @@
 
 ### Full-Stack Software Engineer 👨🏻‍💻
 
-I've been involved in the world of software engineering for the past 8 years, doing everything from developing corporate software to working as a freelance web developer. My main focus right now is centered on strengthening my Front-End skills while also starting my journey in the world of 2D and 3D game development.
+I've been involved in the world of software engineering for the past 6+ years, doing everything from developing corporate software to working as a freelance web developer. My main focus right now is centered on strengthening my Front-End skills while also starting my journey in the world of 2D and 3D game development.
 
 Here are a few things to know about me:
 
-- 🔨 I’m now working on my new personal website, based on Vite ⚡ & React ⚛ => [manoloramos.dev](https://www.manoloramos.dev)
+- 🔨 One of my current personal projects is about my new personal website, built on Vite ⚡ & React ⚛
 - 🌱 I’m currently learning more about Angular, React and Godot Engine.
 - 💬 Ask me anything about videogames, cooking and birds.
 - 💙 Always open to connecting! Reach me out on [in/manoloramos](https://www.linkedin.com/in/manoloramos/)

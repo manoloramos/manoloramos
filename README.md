@@ -7,7 +7,7 @@ I've been involved in the world of software engineering for the past 6+ years, d
 Here are a few things to know about me:
 
 - 🔨 One of my current personal projects is about my new personal website, built on Vite ⚡ & React ⚛
-- 🌱 I’m currently learning more about Angular, React and Godot Engine.
+- 🌱 I’m currently learning more about Data Engineering (Snowflake, DBT, BigQuery), React and Godot Engine.
 - 💬 Ask me anything about videogames, cooking and birds.
 - 💙 Always open to connecting! Reach me out on [in/manoloramos](https://www.linkedin.com/in/manoloramos/)
 - 👀 Some random facts: 
